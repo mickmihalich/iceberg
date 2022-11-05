@@ -1,18 +1,18 @@
 .top_frame {
     background-color: aqua;
-    height: 300px;
+    height: 250px;
     color: darkcyan;
     /*margin-bottom: 50px;*/
 }
 .bottom_frame {
     background-color: rgba(0, 0, 255, 0.75);
-    height: calc(100vh - 300px);
+    height: calc(100vh - 250px);
     color:cyan;
     /*margin-top: -150px;*/
 }
 
 .iceberg {
     display: block;
-    padding-top: 75px;
+    padding-top: 25px;
     padding-left: calc(50vw - 206px);
 }
